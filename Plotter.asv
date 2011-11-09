@@ -1,0 +1,4 @@
+function []= Plotter(x1,x2,y1,y2,func)
+xresolution = 100
+yresolution = 100
+x 
